@@ -1,5 +1,11 @@
+
+
 # 🚦 Adaptive Traffic Light RL
 A simple reinforcement learning project for optimizing a traffic light at a single intersection using SUMO and Deep Q-Networks (DQN).
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d715ec92-4d2d-4d9d-b009-fcbbdf53f3c1" alt="Demo"/>
+</div>
 
 **This project was built to finish the MSIB program at AI Mastery in Orbit Future Academy and ended up being the second runner-up for best project. ✨✨**
 
@@ -13,6 +19,10 @@ A simple reinforcement learning project for optimizing a traffic light at a sing
 - Easy configuration with `.ini` files
 - Auto-generates performance plots
 
+![image](https://github.com/user-attachments/assets/807ec4a9-f38f-4d26-813e-371aef496cb5)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b0122982-7726-43b5-a156-6bfa3829e32f" alt="Demo" width="600"/>
+</div>
 
 # 🚀 Quick Start
 ### 1. Prerequisites
